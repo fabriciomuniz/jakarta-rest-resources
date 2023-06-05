@@ -25,6 +25,11 @@ Accept: application/hal+json
 | Build        | Maven 3.8.8, Kotlin 1.8.21 (Java 17)   |
 | DB           | H2 |
 
+## API Doc
+- openapi: http://localhost:8080/q/openapi?format=json
+- swagger: http://localhost:8080/q/swagger-ui/
+
+
 
 ## _Documentação gerada originalmente pelo initializer:_
 
